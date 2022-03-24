@@ -1,4 +1,4 @@
-### Hi there 👋
+<p>I am a software engineer who cares about people. Whether creating smart and beautiful apps that center on user experience, or focusing on human-centered projects, I like using tech to create empathetic solutions. To me, a growth mindset matters. </p>
 
 <!--
 **michellerenehey/michellerenehey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
