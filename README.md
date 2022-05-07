@@ -5,6 +5,8 @@
   
 <p>I love building things. I love working with people. I love 🌱growing🌱. </p>
 
+<p>Check out my <a href="https://www.michellenygren.dev/">portfolio</a>!</p>
+
 ### ✨ Tech Stack: 
 * **Languages**: JavaScript, HTML5, CSS3
 * **Environments, Frameworks, Libraries**: React, Node.js, Express, Redux
